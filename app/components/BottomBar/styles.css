@@ -1,0 +1,10 @@
+.bottomBar { /* stylelint-disable */
+	float: bottom;
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
+
+.navigationButton {
+	margin-left: 10px;
+}
